@@ -1,0 +1,23 @@
+{"ACADEMIA_NEXTLANG": {
+    "UBICACION": {
+      "Ciudad": "villa carlos paz",
+      "Calle principal": "123"
+    },
+        "CONTACTOS": {
+        "CONTACTO 1": 156734756,
+        "CONTACTO 2": 1544566234
+    },
+        "CURSOS": {
+        "INGLES BASICO":{
+        "Tiempo": "4 semanas",
+        "Precio": "$100 Dolares"},
+
+      " INGLES AVANZADO":{
+        "Tiempo": "20 semanas",
+        "Precio": "$400 Dolares"},
+
+        "ITALIANO BASICO":{
+        "Tiempo": "5 semanas",
+        "Precio": "$120 Dolares"}}
+  }
+} 
